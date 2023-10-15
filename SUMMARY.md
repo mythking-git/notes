@@ -3,6 +3,8 @@
 * [Navigation](README.md)
 * [Further Maths](further-maths/README.md)
   * [Further Pure](further-maths/further-pure/README.md)
+    * [Mathematicians](further-maths/further-pure/mathematicians/README.md)
+      * [Jean-Robert Argand](further-maths/further-pure/mathematicians/jean-robert-argand.md)
     * [Chapter 1 - Matrices](further-maths/further-pure/chapter-1-matrices.md)
     * [Chapter 2 - Intro to complex numbers](further-maths/further-pure/chapter-2-intro-to-complex-numbers.md)
     * [Chapter 3 - Roots of polynomials](further-maths/further-pure/chapter-3-roots-of-polynomials.md)
