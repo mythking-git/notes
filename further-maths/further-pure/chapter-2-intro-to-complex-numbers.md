@@ -38,6 +38,20 @@ For example, $$(7+2i)(3-4i) \\ = 21 - 28i + 6i - 8i^2 \\ = 21 - 22i - 8(-1) \\ =
 
 ### Equality of complex numbers
 
-Two complex numbers $$z=x+yi$$ and $$w=u+vi$$ are equal if both $$x=u$$ and $$y=v$$. If $$x \neq u$$ or y \$$\neq
+Two complex numbers $$z=x+yi$$ and $$w=u+vi$$ are equal if both $$x=u$$ and $$y=v$$. If $$x \neq u$$ or $$y \neq v$$, or both, then $$z \neq w$$ are not equal. As a result, when solving an equation, you can **equate the coefficients** separately.&#x20;
 
-### ÷ Dividing
+## 2.2 Division of complex numbers
+
+### Complex conjugates
+
+A complex conjugate is $$x-yi$$ as it is the conjugate of $$x+yi$$. If $$x+yi = z$$ then the complex conjugate is $$z^*$$.
+
+_Show that_ $$z+z^*$$ _and_ $$zz^*$$, where $$z=3+5i$$ _are both real:_\
+$$\text{i) }z + z^* = (3+5i) + (3-5i) \iff 6$$\
+$$\text{ii) }zz^* = (3+5i)(3-5i) \\ = 9 +15i-15i-25i^2 \\ = 9+25 \\=34$$
+
+
+
+&#x20;\
+
+
