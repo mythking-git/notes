@@ -52,6 +52,22 @@ _Show that_ $$z+z^*$$ _and_ $$zz^*$$, where $$z=3+5i$$ _are both real:_\
 $$\text{i) }z + z^* = (3+5i) + (3-5i) \iff 6$$\
 $$\text{ii) }zz^* = (3+5i)(3-5i) \\ = 9 +15i-15i-25i^2 \\ = 9+25 \\=34$$
 
+### Dividing complex numbers&#x20;
+
+Dividing by a complex number is equivalent to rationalising the denominator of a real fraction, where you multiply the complex fraction by its complex conjugate, i.e.,\
+$$\frac{2}{3-5i} = \frac{2}{3-5i} \times \frac{3+5i}{3+5i}  \\= \frac{6-10i}{34} \\= \frac{3}{17}+\frac{5}{17}i$$
+
+## 2.3 Representing complex numbers geometrically
+
+A complex number $$x+yi$$can be represented by the point with Cartesian coordinates $$(x,y)$$.
+
+<figure><img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128001561099593-bm01-9780128001561.jpg" alt=""><figcaption><p>This is called the complex plane, the Argand diagram.</p></figcaption></figure>
+
+<figure><img src="https://www.hackmath.net/img/91/Argand_diagram.jpg" alt=""><figcaption><p>The addition of vectors can be shown as a parallelogram</p></figcaption></figure>
+
+<figure><img src="https://mathbitsnotebook.com/Algebra2/ComplexNumbers/argandpic6.jpg" alt=""><figcaption><p>The subtraction of complex numbers is the addition of one of the complex numbers complex conjugates</p></figcaption></figure>
+
+\
 
 
 &#x20;\
