@@ -36,4 +36,8 @@ For example, $$(6-9i)-(1+6i) = 5 -15i$$
 **Multiplication**: multiply out the brackets in the usual way and simplify.\
 For example, $$(7+2i)(3-4i) \\ = 21 - 28i + 6i - 8i^2 \\ = 21 - 22i - 8(-1) \\ = 29 - 22i$$
 
+### Equality of complex numbers
+
+Two complex numbers $$z=x+yi$$ and $$w=u+vi$$ are equal if both $$x=u$$ and $$y=v$$. If $$x \neq u$$ or y \$$\neq
+
 ### ÷ Dividing
