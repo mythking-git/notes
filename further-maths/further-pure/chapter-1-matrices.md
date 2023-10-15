@@ -6,6 +6,8 @@ description: >-
 
 # Chapter 1 - Matrices
 
+## Introduction
+
 A matrix is a rectangular array of numbers called elements.
 
 The order of a matrix is the number of rows and columns
@@ -136,8 +138,23 @@ This is sometimes known as the composition of transformations where transformati
 
 ## 1.5 Invariance
 
+### Invariant Points
 
+Points that are mapped to themselves under a transformation are called invariant points. The origin is always an invariant point under any transformation.
 
-***
+Generally, a point $$(x,y)$$is invariant if it satisfies the matrix equation:\
+$$\begin{pmatrix}a & b \\ c & d\end{pmatrix} \begin{pmatrix}x\\y\end{pmatrix} = \begin{pmatrix}x\\y\end{pmatrix}$$\
+This results in two simultaneous equations are formed:\
+$$0=\begin{cases} x=ax+by \\ y = cd+dy \end{cases}$$
 
-#### Mikey Thomas 2023
+### Invariant Lines
+
+A line AB is known as an invariant line under a transformation if the image of every point on AB is also on AB, as before:&#x20;
+
+$$\begin{pmatrix}a & b \\ c & d\end{pmatrix} \begin{pmatrix}x\\y\end{pmatrix} = \begin{pmatrix}x\\y\end{pmatrix}$$$$\iff x' = ax+by$$ and $$y' = cx+dy$$
+
+yet, as it is a line you can substitute x' for $$x$$ and y for $$mx+c$$, effectively saying:
+
+$$\begin{pmatrix}a & b \\ c & d\end{pmatrix} \begin{pmatrix}x\\y\end{pmatrix} = \begin{pmatrix}x\\mx+c\end{pmatrix} \iff x' = ax+b(mx+c) \text{ and } y' = cx+d(mx+c) \\ \therefore cx+dmx+c = m(ax+bmx+c) + c \\ = cx + dmx + amx + bm^2x + mc = 0 \\ = (bm^2 + am +dm + c)x +m(c) = 0$$
+
+#### Mikey Thomas 16/10/2023
