@@ -40,6 +40,8 @@ For example, $$(7+2i)(3-4i) \\ = 21 - 28i + 6i - 8i^2 \\ = 21 - 22i - 8(-1) \\ =
 
 Two complex numbers $$z=x+yi$$ and $$w=u+vi$$ are equal if both $$x=u$$ and $$y=v$$. If $$x \neq u$$ or $$y \neq v$$, or both, then $$z \neq w$$ are not equal. As a result, when solving an equation, you can **equate the coefficients** separately.&#x20;
 
+***
+
 ## 2.2 Division of complex numbers
 
 ### Complex conjugates
