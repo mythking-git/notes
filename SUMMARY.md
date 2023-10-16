@@ -10,6 +10,7 @@
     * [Chapter 3 - Roots of polynomials](further-maths/further-pure/chapter-3-roots-of-polynomials.md)
 * [Mathematics](mathematics/README.md)
   * [Chapter 1 - Problem Solving](mathematics/chapter-1-problem-solving.md)
+  * [Chapter 2 - Surds and indices](mathematics/chapter-2-surds-and-indices.md)
 * [Chemistry](chemistry/README.md)
   * [Module 2 - Foundations in chemistry](chemistry/module-2-foundations-in-chemistry.md)
 * [Physics](physics.md)

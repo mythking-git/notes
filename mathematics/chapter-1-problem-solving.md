@@ -1,4 +1,12 @@
+---
+description: '"Where there are problems, there is life" - Aleksandr Zinoviev (1922-2006)'
+---
+
 # Chapter 1 - Problem Solving
+
+{% hint style="info" %}
+The work in Chapter 1 pervades the whole book
+{% endhint %}
 
 ## 1.1 Number Systems
 
@@ -26,10 +34,9 @@
 | A implies, and is implied by, B         | A $$\iff$$ B                     |                                   |
 | A does not implied B                    | A $$\rlap{\quad\not}\implies$$ B |                                   |
 
-\
 
 
-The converse of a theorem is where the $\implies$ symbol is flipped to $\impliedby$ to express an idea
+The converse of a theorem is where the $$\implies$$ symbol is flipped to $$\impliedby$$ to express an idea
 
 Thus, the triangle $ABC$, Pythagoras' theorem states\
 $$Angle {BCA} = 90^\circ \implies {AB}^2 = {BC}^2 + {CA}^2$$\
@@ -38,14 +45,21 @@ $$Angle {BCA} = 90^\circ \impliedby {AB}^2 = {BC}^2 + {CA}^2$$\
 As such, this can be defined as\
 $$Angle BCA = 90^\circ \iff {AB}^2 = {BC}^2 + {CA}^2$$
 
+* Necessary is used when giving the conditions under which a statement is true i.e., A living being is a spider$$\implies$$it has eight legs.
+* Sufficient is used when a condition can make a certain statement true i.e., A living being has eight legs$$\impliedby$$it is a spider.
+
 ## 1.3 Proofs
 
-#### Proof by exhaustion
+### Disproving a conjecture
 
-#### Proof by deduction
+Find any example where this isn't true i.e.\
+_All multiples of 3 are multiples of 6_\
+$$3 \times 3 = 9$$\
+$$9 \div 6 \neq \Bbb{Z}$$
 
-Step-by-step, usually algebraically, i.e.\
+### Proof by deduction
 
+Step-by-step, usually algebraically, i.e.
 
 _The sum of two consecutive squares is always odd._
 
@@ -58,13 +72,25 @@ $$n^2+(n+1)^2 \\= n^2 + n^2 + 2n + 1 \\=2n^2 + 2n + 1 \\= 2(n^2+n) + 1$$
 2 multiplied by any number is even.\
 $$\therefore$$ an even number plus 1 is odd
 
-#### Proof by contradiction
+### Proof by exhaustion
 
-#### Disproving a conjecture
+Test every single case. i.e.,&#x20;
 
-Find any example where this isn't true i.e.\
+_97 is a prime number._
 
+$$97 \div 2 = 48.5 \\ 97 \div 3 = 19.4 \\ ... \\ 97 \div 9 = 10 \frac{7}{9}$$
 
-_All multiples of 3 are multiples of 6_\
-$$3 \times 3 = 9$$\
-$$9 \div 6 \neq \Bbb{Z}$$
+$$\text{Since none of the numbers divides into 97 exactly, 97 must be prime}$$
+
+### Proof by contradiction
+
+Assume its false then prove you're wrong (so that it is correct).
+
+_If 4 people share £100, one of them must receive at least £25._
+
+```
+Assume that the opposite is true that all 4 people receive less than £25.
+The most each can receive is £24.99
+The maximum total will be 24.99 x 4 = £99.96.
+£100 > £99.96, we have a contradiction so the conjecture is true.
+```
