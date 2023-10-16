@@ -25,7 +25,9 @@ The $$7i$$ is called the imaginary part and is denoted as $$Im(z)$$
 
 ### ± Addition and Subtraction&#x20;
 
-**Addition**: add the real part and add the imaginary parts.\
+**Addition**: add the r
+
+eal part and add the imaginary parts.\
 For example, $$(3+4i)+(2-8i) =  5 - 4i$$
 
 **Subtraction**: subtract the real parts and add the imaginary parts.\
@@ -57,9 +59,13 @@ $$\text{ii) }zz^* = (3+5i)(3-5i) \\ = 9 +15i-15i-25i^2 \\ = 9+25 \\=34$$
 Dividing by a complex number is equivalent to rationalising the denominator of a real fraction, where you multiply the complex fraction by its complex conjugate, i.e.,\
 $$\frac{2}{3-5i} = \frac{2}{3-5i} \times \frac{3+5i}{3+5i}  \\= \frac{6-10i}{34} \\= \frac{3}{17}+\frac{5}{17}i$$
 
+***
+
 ## 2.3 Representing complex numbers geometrically
 
-A complex number $$x+yi$$can be represented by the point with Cartesian coordinates $$(x,y)$$.
+A complex number $$x+yi$$can be represented by a point with Cartesian coordinates $$(x,y)$$ on an Argand diagram where $$x = x$$ on the real axis and $$y = yi$$ on the imaginary axis.
+
+[jean-robert-argand.md](mathematicians/jean-robert-argand.md "mention")
 
 <figure><img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128001561099593-bm01-9780128001561.jpg" alt=""><figcaption><p>This is called the complex plane, the Argand diagram.</p></figcaption></figure>
 
@@ -67,9 +73,4 @@ A complex number $$x+yi$$can be represented by the point with Cartesian coordina
 
 <figure><img src="https://mathbitsnotebook.com/Algebra2/ComplexNumbers/argandpic6.jpg" alt=""><figcaption><p>The subtraction of complex numbers is the addition of one of the complex numbers complex conjugates</p></figcaption></figure>
 
-\
-
-
-&#x20;\
-
-
+#### October 16 2023

@@ -8,7 +8,7 @@ description: '"Where there are problems, there is life" - Aleksandr Zinoviev (19
 The work in Chapter 1 pervades the whole book
 {% endhint %}
 
-## 1.1 Number Systems
+## 1.1 - Number Systems
 
 | Number System          | Values                                                                                     | Symbol                        |
 | ---------------------- | ------------------------------------------------------------------------------------------ | ----------------------------- |
@@ -25,7 +25,9 @@ The work in Chapter 1 pervades the whole book
 
 &#x20;                                                              $$$\text {$\Bbb{Z^+}$$\epsilon$ $\Bbb{N}$ $\epsilon$ $\Bbb{Z}$ $\epsilon$ $\Bbb{Q}$ $\epsilon$ $\Bbb{R}$ $\epsilon$ $\Bbb{C}$}$$$
 
-## 1.2 Writing Mathematics
+***
+
+## 1.2 - Writing Mathematics
 
 | Name                                    | Symbol                           | Note                              |
 | --------------------------------------- | -------------------------------- | --------------------------------- |
@@ -48,7 +50,9 @@ $$Angle BCA = 90^\circ \iff {AB}^2 = {BC}^2 + {CA}^2$$
 * Necessary is used when giving the conditions under which a statement is true i.e., A living being is a spider$$\implies$$it has eight legs.
 * Sufficient is used when a condition can make a certain statement true i.e., A living being has eight legs$$\impliedby$$it is a spider.
 
-## 1.3 Proofs
+***
+
+## 1.3 - Proofs
 
 ### Disproving a conjecture
 
@@ -94,3 +98,5 @@ The most each can receive is £24.99
 The maximum total will be 24.99 x 4 = £99.96.
 £100 > £99.96, we have a contradiction so the conjecture is true.
 ```
+
+#### 16 October 2023

@@ -22,7 +22,7 @@ $$\overbrace{ \begin{bmatrix} 0 & 2 & 1 \\ 2 & 0 & 0 \\ 1 & 0 & 0\end{bmatrix}}^
 
 ***
 
-## 1.1 Working with Matrices
+## 1.1 - Working with Matrices
 
 #### Addition:
 
@@ -45,7 +45,7 @@ however, it is not commutative nor associative
 
 ***
 
-## 1.2 Multiplication of Matrices
+## 1.2 - Multiplication of Matrices
 
 #### Multiplication:
 
@@ -126,7 +126,7 @@ Geogebra - 3D Transformations
 
 ***
 
-## 1.4 Successive Transformations
+## 1.4 - Successive Transformations
 
 A successive transformation is the resultant point after 2 or more transformations.
 
@@ -136,7 +136,7 @@ This is sometimes known as the composition of transformations where transformati
 
 ***
 
-## 1.5 Invariance
+## 1.5 - Invariance
 
 ### Invariant Points
 
@@ -157,4 +157,4 @@ yet, as it is a line you can substitute x' for $$x$$ and y for $$mx+c$$, effecti
 
 $$\begin{pmatrix}a & b \\ c & d\end{pmatrix} \begin{pmatrix}x\\y\end{pmatrix} = \begin{pmatrix}x\\mx+c\end{pmatrix} \iff x' = ax+b(mx+c) \text{ and } y' = cx+d(mx+c) \\ \therefore cx+dmx+c = m(ax+bmx+c) + c \\ = cx + dmx + amx + bm^2x + mc = 0 \\ = (bm^2 + am +dm + c)x +m(c) = 0$$
 
-#### Mikey Thomas 16/10/2023
+#### October 16 2023
