@@ -20,6 +20,8 @@ The name _quadratic_ comes from the Latin _quadratus_ and _quad_ meaning 'fourth
 Factorising a quadratic can help you solve for the roots of the graph. It is a key skill and involves finding a way of splitting the middle $$x$$term to factorise, for example:\
 $$x^2 + 7x + 12 \\ = x^2 + 4x + 3x + 12 \\ = x(x+4) + 3(x+4) \\ = (x+3)(x+4)$$
 
+***
+
 ## 3.2 - The completed square form
 
 A quadratic has the shape of a **parabola**, they will always have:
@@ -54,6 +56,8 @@ The turning point can be found from the completed square...\
 $$\text{where } x = -b \\ \text{and } y = c$$\
 or in column vector form:\
 $$(x,y) \impliedby \begin{pmatrix} -b\\c\end{pmatrix}$$
+
+***
 
 ## 3.3 - The quadratic formula
 
