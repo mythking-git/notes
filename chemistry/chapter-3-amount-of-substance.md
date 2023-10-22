@@ -29,4 +29,45 @@ When water molecules are part of their crystalline structure, it is known as wat
 
 $$\text{CuSO}_4 \bullet \text{5H}_2\text{O}_{(s)} \rightarrow \text{CuSO}_{4(s)} + \text{5H}_2\text{O}_{(l)}$$
 
-To find the formula of a hydrated salt:\
+To find the formula of a hydrated salt:
+
+* Weigh an empty crucible.
+* Add the hydrated salt and weigh both the crucible and the salt.
+* Use a pipe-clay triangle on a tripod, and heat the crucible, gently and then strongly.
+* Leave it to cool, and then weigh the crucible and anhydrous salt.
+
+Then to calculate the formula:
+
+* Calculate the amount, in mol, of anhydrous salt, by subtracting the weight of the crucible.
+* Calculate the mass and moles of water.
+* Find the smallest whole-number ratio by dividing by the smallest amount of moles.
+* Write down your calculated ratio in the formula.
+
+## 3.3 - Moles and volumes
+
+### Solutions
+
+* Cubic centimetres and millilitres are equivalent: $$1cm^3 = 1ml$$
+* Cubic decimetres and litres are equivalent: $$1dm^3 = 1000cm^3=1000ml=1l$$
+
+$$n=c\times V$$ where $$n$$ is moles, $$c$$ is concentration in $$\text{mol dm}^{-3}$$, and $$V$$ is volume in $$dm^3$$
+
+### Gases
+
+The **molar gas volume** $$V_m$$ is the volume per mole of gas molecules at a stated temperature and pressure. At room temperature ($$25\degree = \text{298K}$$) and pressure ($$\text{1 atm} = \text{101kPa}$$) (RTP), 1 mole of gas molecules has a volume of approximately $$24.0dm^3 = 24000cm^3$$
+
+#### The ideal gas equation
+
+$$\text{pV = nRT}$$
+
+* p = pressure in $$\text{Pa}$$
+* V = volume in $$\text{dm}^3$$
+* n = number of moles
+* R = $$\text{8.314 J mol}^{-1}\text{ K}^{-1}$$
+* T = temperature in kelvin ($$\degree + 273$$)
+
+## 3.4 - Reacting quantities
+
+$$\text{percentage yield} = \frac{\text{actual yield}}{\text{theoretical yield}} \times \text{100\%}$$
+
+$$\text{atom economy} = \frac{\sum \text{desired products } M_r}{\sum \text{total products }M_r} \times \text{100\%}$$&#x20;
