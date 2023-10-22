@@ -14,5 +14,6 @@
   * [Chapter 2 - Surds and indices](mathematics/chapter-2-surds-and-indices.md)
   * [Chapter 3 - Quadratic Functions](mathematics/chapter-3-quadratic-functions.md)
 * [Chemistry](chemistry/README.md)
-  * [Module 2 - Foundations in chemistry](chemistry/module-2-foundations-in-chemistry.md)
+  * [Chapter 2 - Foundations in chemistry](chemistry/chapter-2-foundations-in-chemistry.md)
+  * [Chapter 3 - Amount of substance](chemistry/chapter-3-amount-of-substance.md)
 * [Physics](physics.md)

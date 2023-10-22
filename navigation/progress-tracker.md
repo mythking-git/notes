@@ -26,7 +26,7 @@
 
 ### Stats:
 
-<table><thead><tr><th width="369">Chapter</th><th width="109" data-type="checkbox"></th><th data-type="checkbox">Reviewed</th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>14 - Data Collection</td><td>true</td><td>false</td><td>5</td></tr><tr><td>15 - Data Processing</td><td>true</td><td>false</td><td>5</td></tr><tr><td>16 - Probability </td><td>false</td><td>false</td><td>null</td></tr><tr><td>17 - Binomial Distribution</td><td>false</td><td>false</td><td>null</td></tr></tbody></table>
+<table><thead><tr><th width="350">Chapter</th><th width="117" data-type="checkbox"></th><th width="122" data-type="checkbox">Reviewed</th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>14 - Data Collection</td><td>true</td><td>false</td><td>5</td></tr><tr><td>15 - Data Processing</td><td>true</td><td>false</td><td>5</td></tr><tr><td>16 - Probability </td><td>false</td><td>false</td><td>null</td></tr><tr><td>17 - Binomial Distribution</td><td>false</td><td>false</td><td>null</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Chemistry" %}
