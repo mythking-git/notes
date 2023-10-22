@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Navigation](README.md)
+  * [Progress Tracker](navigation/progress-tracker.md)
 * [Further Maths](further-maths/README.md)
   * [Further Pure](further-maths/further-pure/README.md)
     * [Mathematicians](further-maths/further-pure/mathematicians/README.md)
