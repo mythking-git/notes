@@ -16,4 +16,6 @@
 * [Chemistry](chemistry/README.md)
   * [Chapter 2 - Foundations in chemistry](chemistry/chapter-2-foundations-in-chemistry.md)
   * [Chapter 3 - Amount of substance](chemistry/chapter-3-amount-of-substance.md)
-* [Physics](physics.md)
+* [Physics](physics/README.md)
+  * [Chapter 6 - Wave behaviour](physics/chapter-6-wave-behaviour.md)
+  * [Chapter 8 - Motion](physics/chapter-8-motion.md)
