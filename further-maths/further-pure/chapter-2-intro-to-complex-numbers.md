@@ -65,7 +65,7 @@ $$\frac{2}{3-5i} = \frac{2}{3-5i} \times \frac{3+5i}{3+5i}  \\= \frac{6-10i}{34}
 
 A complex number $$x+yi$$can be represented by a point with Cartesian coordinates $$(x,y)$$ on an Argand diagram where $$x = x$$ on the real axis and $$y = yi$$ on the imaginary axis.
 
-[jean-robert-argand.md](../../mathematics/mathematicians/jean-robert-argand.md "mention")
+[jean-robert-argand.md](../mathematicians/jean-robert-argand.md "mention")
 
 <figure><img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128001561099593-bm01-9780128001561.jpg" alt=""><figcaption><p>This is called the complex plane, the Argand diagram.</p></figcaption></figure>
 
