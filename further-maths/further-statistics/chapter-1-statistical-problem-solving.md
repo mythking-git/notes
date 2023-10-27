@@ -10,5 +10,6 @@ description: >-
 Framework for much of statistics used in everyday life. It draws on and extends the prior knowledge of the book. It introduces key ideas such as frequency charts, histograms, variance and standard deviation.
 {% endhint %}
 
-Covered in regular applied mathematics:\
-_Insert link_
+Covered in regular applied mathematics:
+
+[chapter-1-problem-solving.md](../../mathematics/chapter-1-problem-solving.md "mention")

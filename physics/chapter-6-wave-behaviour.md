@@ -10,7 +10,7 @@
 * (a) - maximum/peak
 * (b) - minimum/trough
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Graph 6.1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Graph 6.1</p></figcaption></figure>
 
 ### Phase and phasors
 
@@ -20,9 +20,9 @@ Two waves doing the two opposite things at the same moment are in **antiphase**,
 
 Phase and phase differences can be measured by a phase angle. We can use a rotating arrow, a **phasor**, to show where the wave is in its cycle.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Graph 6.2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Graph 6.2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Graph 6.3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Graph 6.3</p></figcaption></figure>
 
 $$\text{The amplitude of a phasor, is equivalent to a sin } \theta \text{ of it's phase angle }$$
 

@@ -4,7 +4,7 @@ description: Stagira, 384-322BC
 
 # Aristotle
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="320"><figcaption><p>Roman copy (in marble) of a Greek bronze bust of Aristotle by Lysippos (c. 330 BC), with modern alabaster mantle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="320"><figcaption><p>Roman copy (in marble) of a Greek bronze bust of Aristotle by Lysippos (c. 330 BC), with modern alabaster mantle</p></figcaption></figure>
 
 Aristotle, a student of Plato, promoted the early concepts of observing physical phenomena and led to the discovery of the natural laws governing them.
 

@@ -24,6 +24,8 @@
 * [Chemistry](chemistry/README.md)
   * [Chapter 2 - Foundations in chemistry](chemistry/chapter-2-foundations-in-chemistry.md)
   * [Chapter 3 - Amount of substance](chemistry/chapter-3-amount-of-substance.md)
+  * [Chapter 4 - Acids and redox](chemistry/chapter-4-acids-and-redox.md)
+  * [Chapter 5 - Electrons and bonding](chemistry/chapter-5-electrons-and-bonding.md)
 * [Physics](physics/README.md)
   * [Physicists](physics/physicists/README.md)
     * [Aristotle](physics/physicists/aristotle.md)
