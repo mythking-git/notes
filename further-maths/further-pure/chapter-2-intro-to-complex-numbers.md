@@ -9,7 +9,7 @@ description: >-
 
 ## 2.1 Extending the number system
 
-[chapter-1-problem-solving.md](../../mathematics/pure/chapter-1-problem-solving.md "mention")
+[chapter-1-problem-solving.md](../../mathematics/chapter-1-problem-solving.md "mention")
 
 As in regular mathematics, there are number bases, complex numbers are an extension of this outside of the real $$(\Bbb{R})$$ numbers, they are the complex numbers $$(\Bbb{C})$$.
 
