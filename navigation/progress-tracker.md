@@ -4,12 +4,18 @@
 {% tab title="Further Maths" %}
 ### Grades
 
-| Title           | Mark  | Grade    | Date |
-| --------------- | ----- | -------- | ---- |
-| Complex numbers | 22/22 | A - 100% | -    |
-| DRV 1           |       | A        |      |
-| DRV 2           |       | A        |      |
-| Matricies       |       | A        |      |
+### Pure, A - 96%
+
+| Title           | Mark  | Grade    | Date     |
+| --------------- | ----- | -------- | -------- |
+| Matricies       | 22/22 | A - 100% | 03/10/23 |
+| Complex numbers | 21/23 | A - 91%  | 24/10/23 |
+
+### Stats, A - 92%:
+
+| Title                       | Mark  | Grade     | Date     |
+| --------------------------- | ----- | --------- | -------- |
+| Discrete random variables 1 | 22/24 | A\* - 92% | 26/09/23 |
 
 ### Pure:
 
@@ -31,12 +37,18 @@
 {% tab title="Mathematics" %}
 ## Grades
 
-| Title           | Mark  | Grade    | Date |
-| --------------- | ----- | -------- | ---- |
-| Complex numbers | 22/22 | A - 100% | -    |
-| DRV 1           |       | A        |      |
-| DRV 2           |       | A        |      |
-| Matricies       |       | A        |      |
+### Pure, A - 95%:
+
+| Title        | Mark  | Grade   | Date     |
+| ------------ | ----- | ------- | -------- |
+| Introduction | 74/77 | A - 96% | 04/09/23 |
+| Proofs       | 20/22 | A - 91% | 26/9/23  |
+
+### Stats:
+
+| Title | Mark | Grade | Date |
+| ----- | ---- | ----- | ---- |
+|       |      |       |      |
 
 ### Pure:
 
@@ -48,14 +60,11 @@
 {% endtab %}
 
 {% tab title="Chemistry" %}
-## Grades
+## Grades, B - 76%:
 
-| Title           | Mark  | Grade    | Date |
-| --------------- | ----- | -------- | ---- |
-| Complex numbers | 22/22 | A - 100% | -    |
-| DRV 1           |       | A        |      |
-| DRV 2           |       | A        |      |
-| Matricies       |       | A        |      |
+| Title               | Mark  | Grade   | Date     |
+| ------------------- | ----- | ------- | -------- |
+| Amount of substance | 16/21 | B - 76% | 09/10/23 |
 
 ## Progress
 
@@ -63,14 +72,11 @@
 {% endtab %}
 
 {% tab title="Physics" %}
-## Grades
+## Grades, C - 61%:
 
-| Title | Mark | Grade | Date |
-| ----- | ---- | ----- | ---- |
-|       |      |       |      |
-|       |      |       |      |
-|       |      |       |      |
-|       |      |       |      |
+| Title       | Mark    | Grade      | Date     |
+| ----------- | ------- | ---------- | -------- |
+| Motion (C8) | 27.5/45 | C - 61% 😔 | 09/10/23 |
 
 ## Progress
 
