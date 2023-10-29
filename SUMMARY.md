@@ -26,6 +26,7 @@
   * [Chapter 3 - Amount of substance](chemistry/chapter-3-amount-of-substance.md)
   * [Chapter 4 - Acids and redox](chemistry/chapter-4-acids-and-redox.md)
   * [Chapter 5 - Electrons and bonding](chemistry/chapter-5-electrons-and-bonding.md)
+  * [Chapter 6 - Shapes of molecules and intermolecular forces](chemistry/chapter-6-shapes-of-molecules-and-intermolecular-forces.md)
 * [Physics](physics/README.md)
   * [Physicists](physics/physicists/README.md)
     * [Aristotle](physics/physicists/aristotle.md)
