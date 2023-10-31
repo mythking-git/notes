@@ -4,15 +4,15 @@
 {% tab title="Further Maths" %}
 ### Grades
 
-### Pure, A - 96%
+### Pure, A\* - 96%
 
-| Title                | Mark  | Grade    | Date     |
-| -------------------- | ----- | -------- | -------- |
-| Matricies            | 22/22 | A - 100% | 03/10/23 |
-| Complex numbers      | 21/23 | A - 91%  | 24/10/23 |
-| Roots of polynomials |       |          |          |
+| Title                | Mark  | Grade      | Date     |
+| -------------------- | ----- | ---------- | -------- |
+| Matricies            | 22/22 | A\* - 100% | 03/10/23 |
+| Complex numbers      | 21/23 | A\* - 91%  | 24/10/23 |
+| Roots of polynomials |       |            |          |
 
-### Stats, A - 92%:
+### Stats, A\* - 95%:
 
 | Title                       | Mark  | Grade      | Date     |
 | --------------------------- | ----- | ---------- | -------- |
@@ -39,12 +39,12 @@
 {% tab title="Mathematics" %}
 ## Grades
 
-### Pure, A - 95%:
+### Pure, A\* - 95%:
 
-| Title        | Mark  | Grade   | Date     |
-| ------------ | ----- | ------- | -------- |
-| Introduction | 74/77 | A - 96% | 04/09/23 |
-| Proofs       | 20/22 | A - 91% | 26/09/23 |
+| Title        | Mark  | Grade     | Date     |
+| ------------ | ----- | --------- | -------- |
+| Introduction | 74/77 | A\* - 96% | 04/09/23 |
+| Proofs       | 20/22 | A\* - 91% | 26/09/23 |
 
 ### Stats:
 
