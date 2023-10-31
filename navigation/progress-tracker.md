@@ -39,12 +39,13 @@
 {% tab title="Mathematics" %}
 ## Grades
 
-### Pure, A\* - 95%:
+### Pure, A\* - 93%:
 
 | Title        | Mark  | Grade     | Date     |
 | ------------ | ----- | --------- | -------- |
 | Introduction | 74/77 | A\* - 96% | 04/09/23 |
 | Proofs       | 20/22 | A\* - 91% | 26/09/23 |
+| Indicies     | 17/20 | A - 85%   | 02/10/23 |
 
 ### Stats:
 
