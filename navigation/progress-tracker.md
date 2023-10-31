@@ -6,16 +6,18 @@
 
 ### Pure, A - 96%
 
-| Title           | Mark  | Grade    | Date     |
-| --------------- | ----- | -------- | -------- |
-| Matricies       | 22/22 | A - 100% | 03/10/23 |
-| Complex numbers | 21/23 | A - 91%  | 24/10/23 |
+| Title                | Mark  | Grade    | Date     |
+| -------------------- | ----- | -------- | -------- |
+| Matricies            | 22/22 | A - 100% | 03/10/23 |
+| Complex numbers      | 21/23 | A - 91%  | 24/10/23 |
+| Roots of polynomials |       |          |          |
 
 ### Stats, A - 92%:
 
-| Title                       | Mark  | Grade     | Date     |
-| --------------------------- | ----- | --------- | -------- |
-| Discrete random variables 1 | 22/24 | A\* - 92% | 26/09/23 |
+| Title                       | Mark  | Grade      | Date     |
+| --------------------------- | ----- | ---------- | -------- |
+| Discrete random variables 1 | 22/24 | A\* - 92%  | 26/09/23 |
+| Discrete random variables 2 | 13/13 | A\* - 100% | 23/10/23 |
 
 ### Pure:
 
@@ -42,7 +44,7 @@
 | Title        | Mark  | Grade   | Date     |
 | ------------ | ----- | ------- | -------- |
 | Introduction | 74/77 | A - 96% | 04/09/23 |
-| Proofs       | 20/22 | A - 91% | 26/9/23  |
+| Proofs       | 20/22 | A - 91% | 26/09/23 |
 
 ### Stats:
 
