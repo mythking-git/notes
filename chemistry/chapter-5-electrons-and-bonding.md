@@ -10,6 +10,8 @@ An orbital is an electron cloud where within the area 2, 6, 10, or 14 electrons 
 
 <figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption><p>Periodic table with sub-shell orbitals.</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption><p>Orbital Shapes</p></figcaption></figure>
+
 The image above shows the order the electron orbitals are filled due to their energy. This is in the order: $$1s^2,2s^2,2p^6,3s^2,3p^6,4s^2,3d^{10}...$$ etc.
 
 <table data-full-width="false"><thead><tr><th></th><th>Electron config</th><th>Shorthand</th></tr></thead><tbody><tr><td>Li</td><td><span class="math">1s^2,2s^1</span></td><td></td></tr><tr><td>Na</td><td><span class="math">1s^2, 2s^2, 2p^6, 3s^1</span></td><td><span class="math">\text{[Ne] }3s^1</span></td></tr><tr><td>K</td><td><span class="math">1s^2, 2s^2, 2p^6, 3s^2, 3p^6, 4s^1</span></td><td><span class="math">\text{[Ar] }4s^1</span> </td></tr></tbody></table>
