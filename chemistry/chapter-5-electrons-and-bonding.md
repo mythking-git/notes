@@ -53,7 +53,7 @@ In their solid state, ionic compounds do not conduct electricity. However, if th
 
 **Covalent bonding** is a strong electrostatic attraction between a shared pair of electrons and the nuclei of the bonded atoms. This occurs between atoms in:
 
-* non-metallic elements, such as, $$\text{H}_2$$ and $$\text{O}_2$$.
+* non-metallic elements, such as, $$\text{H}_2$$ and $$\text{O}_2$$
 * compounds of non-metallic elements, such as, $$\text{H}_2\text{O}$$
 * polyatomic ions, for example, $$\text{NH}_4^+$$
 
