@@ -59,6 +59,8 @@ In their solid state, ionic compounds do not conduct electricity. However, if th
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Examples of covalent bonds in dot-cross diagrams.</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Polyatomic ion example - (Ammonium <span class="math">\text{NH}_4^+</span>)</p></figcaption></figure>
+
 ### Exceptions of the octet rule
 
 Some other elements such as boron, can bond covalently with more or less than the expected 8 electrons in their outer shell.
