@@ -6,18 +6,15 @@
 
 ### Pure, A\* - 96%
 
-| Title                | Mark  | Grade      | Date     |
-| -------------------- | ----- | ---------- | -------- |
-| Matricies            | 22/22 | A\* - 100% | 03/10/23 |
-| Complex numbers      | 21/23 | A\* - 91%  | 24/10/23 |
-| Roots of polynomials |       |            |          |
+| Title                | Assignment | Test Mark | Grade      | Date     |
+| -------------------- | ---------- | --------- | ---------- | -------- |
+| Matricies            | 34/35      | 22/22     | A\* - 100% | 03/10/23 |
+| Complex numbers      | 40/40      | 21/23     | A\* - 91%  | 24/10/23 |
+| Roots of polynomials |            |           |            |          |
 
 ### Stats, A\* - 95%:
 
-| Title                       | Mark  | Grade      | Date     |
-| --------------------------- | ----- | ---------- | -------- |
-| Discrete random variables 1 | 22/24 | A\* - 92%  | 26/09/23 |
-| Discrete random variables 2 | 13/13 | A\* - 100% | 23/10/23 |
+<table><thead><tr><th width="208">Title</th><th width="128">Assignment</th><th width="110">Test Mark</th><th width="112">Grade</th><th>Date</th></tr></thead><tbody><tr><td>Discrete random variables 1</td><td>-</td><td>22/24</td><td>A* - 92%</td><td>26/09/23</td></tr><tr><td>Discrete random variables 2</td><td>29/30</td><td>13/13</td><td>A* - 100%</td><td>23/10/23</td></tr></tbody></table>
 
 ### Pure:
 
@@ -41,17 +38,11 @@
 
 ### Pure, A\* - 93%:
 
-| Title        | Mark  | Grade     | Date     |
-| ------------ | ----- | --------- | -------- |
-| Introduction | 74/77 | A\* - 96% | 04/09/23 |
-| Proofs       | 20/22 | A\* - 91% | 26/09/23 |
-| Indicies     | 17/20 | A - 85%   | 02/10/23 |
+<table><thead><tr><th width="148">Title</th><th>Assignment</th><th>Test Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Introduction</td><td>-</td><td>74/77</td><td>A* - 96%</td><td>04/09/23</td></tr><tr><td>Proofs</td><td>-</td><td>20/22</td><td>A* - 91%</td><td>26/09/23</td></tr><tr><td>Indicies</td><td>50/50</td><td>17/20</td><td>A - 85%</td><td>02/10/23</td></tr><tr><td>Quadratics</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-### Stats:
+### Stats:-
 
-| Title | Mark | Grade | Date |
-| ----- | ---- | ----- | ---- |
-|       |      |       |      |
+<table><thead><tr><th width="178">Title</th><th width="147">Assignment</th><th width="103">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Processing data</td><td></td><td>20/20</td><td>A* - 100%</td><td>27/10/23</td></tr></tbody></table>
 
 ### Pure:
 
