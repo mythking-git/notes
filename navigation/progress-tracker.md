@@ -36,17 +36,17 @@
 {% tab title="Mathematics" %}
 ## Grades
 
-### Pure, A\* - 93%:
+### Pure, A\* - 90%:
 
-<table><thead><tr><th width="148">Title</th><th>Assignment</th><th>Test Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Introduction</td><td>-</td><td>74/77</td><td>A* - 96%</td><td>04/09/23</td></tr><tr><td>Proofs</td><td>-</td><td>20/22</td><td>A* - 91%</td><td>26/09/23</td></tr><tr><td>Indicies</td><td>50/50</td><td>17/20</td><td>A - 85%</td><td>02/10/23</td></tr><tr><td>Quadratics</td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="148">Title</th><th>Assignment</th><th>Test Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Introduction</td><td>-</td><td>74/77</td><td>A* - 96%</td><td>04/09/23</td></tr><tr><td>Proofs</td><td>-</td><td>20/22</td><td>A* - 91%</td><td>26/09/23</td></tr><tr><td>Indicies</td><td>50/50</td><td>17/20</td><td>A* - 85%</td><td>02/10/23</td></tr><tr><td>Quadratics</td><td>50/50</td><td>14/20</td><td>B - 70% <span data-gb-custom-inline data-tag="emoji" data-code="1f926">🤦</span></td><td>06/11/23</td></tr></tbody></table>
 
-### Stats:-
+### Stats, A\* - 100%:
 
 <table><thead><tr><th width="178">Title</th><th width="147">Assignment</th><th width="103">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Processing data</td><td></td><td>20/20</td><td>A* - 100%</td><td>27/10/23</td></tr></tbody></table>
 
 ### Pure:
 
-<table><thead><tr><th width="346">Chapter</th><th width="115" data-type="checkbox"></th><th width="123" data-type="checkbox">Reviewed</th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>1 - Problem Solving</td><td>true</td><td>true</td><td>5</td></tr><tr><td>2 - Surds and indices</td><td>true</td><td>true</td><td>5</td></tr><tr><td>3 - Quadratic Graphs</td><td>true</td><td>false</td><td>5</td></tr><tr><td>4 - Equations and inequalities</td><td>false</td><td>false</td><td>null</td></tr><tr><td>5 - Coordinate geometry</td><td>false</td><td>false</td><td>null</td></tr></tbody></table>
+<table><thead><tr><th width="346">Chapter</th><th width="115" data-type="checkbox"></th><th width="123" data-type="checkbox">Reviewed</th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>1 - Problem Solving</td><td>true</td><td>true</td><td>5</td></tr><tr><td>2 - Surds and indices</td><td>true</td><td>true</td><td>5</td></tr><tr><td>3 - Quadratic Graphs</td><td>true</td><td>true</td><td>5</td></tr><tr><td>4 - Equations and inequalities</td><td>false</td><td>false</td><td>null</td></tr><tr><td>5 - Coordinate geometry</td><td>false</td><td>false</td><td>null</td></tr></tbody></table>
 
 ### Stats:
 
@@ -56,9 +56,7 @@
 {% tab title="Chemistry" %}
 ## Grades, B - 76%:
 
-| Title               | Mark  | Grade   | Date     |
-| ------------------- | ----- | ------- | -------- |
-| Amount of substance | 16/21 | B - 76% | 09/10/23 |
+<table><thead><tr><th width="215">Title</th><th width="101">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Amount of substance</td><td>16/21</td><td>B - 76% </td><td>09/10/23</td></tr></tbody></table>
 
 ## Progress
 
@@ -66,11 +64,9 @@
 {% endtab %}
 
 {% tab title="Physics" %}
-## Grades, C - 61%:
+## Grades, B - 75%:
 
-| Title       | Mark    | Grade      | Date     |
-| ----------- | ------- | ---------- | -------- |
-| Motion (C8) | 27.5/45 | C - 61% 😔 | 09/10/23 |
+<table><thead><tr><th width="217">Title</th><th width="125">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Motion (C8)</td><td>27.5/45</td><td>C - 61% 😔</td><td>09/10/23</td></tr><tr><td>Wave Behaviour (C6)</td><td>50/58</td><td>A - 86% <a href="https://emojipedia.org/party-popper">🎉</a></td><td>06/11/23</td></tr></tbody></table>
 
 ## Progress
 
