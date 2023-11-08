@@ -54,3 +54,20 @@ A standard solution of known concentration. A **volumetric flask** is used to ma
 ## 4.3 - Redox&#x20;
 
 The **oxidation number** is based on a set of rules that apply to atoms and can be thought of as the number of electrons involved in bonding to a different element.&#x20;
+
+* Pure elements will always have an oxidation number of 0, such as, $$H_2, O_2,P_4$$.
+* Compounds contain atoms that each have an oxidation number.
+
+| Ion          | Oxidation Number     |
+| ------------ | -------------------- |
+| H, Li, Na, K | +1                   |
+| Mg, Ca, Be   | +2                   |
+| Al           | +3                   |
+| O            | -2 (when not with F) |
+| F            | -1 (always)          |
+
+Fluorine is the most electronegative molecule in the periodic table, it will always be -1. This cascades down the table:\
+Oxygen is usually -2 unless with fluorine,\
+Chlorine is usually -1 unless with oxygen or fluorine... etc...
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
