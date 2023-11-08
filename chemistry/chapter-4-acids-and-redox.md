@@ -55,9 +55,6 @@ A standard solution of known concentration. A **volumetric flask** is used to ma
 
 The **oxidation number** is based on a set of rules that apply to atoms and can be thought of as the number of electrons involved in bonding to a different element.&#x20;
 
-* Pure elements will always have an oxidation number of 0, such as, $$H_2, O_2,P_4$$.
-* Compounds contain atoms that each have an oxidation number.
-
 | Ion          | Oxidation Number     |
 | ------------ | -------------------- |
 | H, Li, Na, K | +1                   |
@@ -70,4 +67,20 @@ Fluorine is the most electronegative molecule in the periodic table, it will alw
 Oxygen is usually -2 unless with fluorine,\
 Chlorine is usually -1 unless with oxygen or fluorine... etc...
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Electronegativity table</p></figcaption></figure>
+
+### Oxidation numbers
+
+* Pure elements will always have an oxidation number of 0, such as, $$H_2, O_2,P_4$$.
+* Compounds contain atoms that each have an oxidation number.
+* Polyatomic ions have oxidation numbers that total to the charge of the ion, for example $$\text{NO}_3^-$$ with have a oxidation number of $$-1$$ as oxygen is a $$-2 \times 3$$, making nitrogen a $$+5$$ to total to $$-1$$.
+
+You can find the reducing and oxidising agents of a reaction from the change in oxidation number in a reaction as shown below&#x20;
+
+<figure><img src="../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
+
+In this reaction above, we can see that the manganese gains electrons as its oxidation number decreases, and the iron loses electrons for the opposite reason.
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+This means that $$\text{Mn}$$ has been reduced, making it an oxidising agent, and, conversely, $$\text{Fe}$$ has been oxidised, making it a reducing agent.
