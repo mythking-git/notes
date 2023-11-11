@@ -38,7 +38,7 @@
 
 ### Pure, A\* - 90%:
 
-<table><thead><tr><th width="148">Title</th><th>Assignment</th><th>Test Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Introduction</td><td>-</td><td>74/77</td><td>A* - 96%</td><td>04/09/23</td></tr><tr><td>Proofs</td><td>-</td><td>20/22</td><td>A* - 91%</td><td>26/09/23</td></tr><tr><td>Indicies</td><td>50/50</td><td>17/20</td><td>A* - 85%</td><td>02/10/23</td></tr><tr><td>Quadratics</td><td>50/50</td><td>14/20</td><td>B - 70% <span data-gb-custom-inline data-tag="emoji" data-code="1f926">🤦</span></td><td>06/11/23</td></tr></tbody></table>
+<table><thead><tr><th width="148">Title</th><th>Assignment</th><th>Test Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Introduction</td><td>-</td><td>74/77</td><td>A* - 96%</td><td>04/09/23</td></tr><tr><td>Proofs</td><td>-</td><td>20/22</td><td>A* - 91%</td><td>26/09/23</td></tr><tr><td>Indicies</td><td>50/50</td><td>17/20</td><td>A* - 85%</td><td>02/10/23</td></tr><tr><td>Quadratics</td><td>50/50</td><td>14/20</td><td>B - 70% <span data-gb-custom-inline data-tag="emoji" data-code="1f926">🤦</span></td><td>06/11/23</td></tr><tr><td>Inequalities</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ### Stats, A\* - 100%:
 
@@ -54,9 +54,9 @@
 {% endtab %}
 
 {% tab title="Chemistry" %}
-## Grades, B - 76%:
+## Grades, A - 82%:
 
-<table><thead><tr><th width="215">Title</th><th width="101">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Amount of substance</td><td>16/21</td><td>B - 76% </td><td>09/10/23</td></tr></tbody></table>
+<table><thead><tr><th width="222">Title</th><th width="101">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Amount of substance</td><td>16/21</td><td>B - 76% </td><td>09/10/23</td></tr><tr><td>Electrons and bonding</td><td>24/28</td><td>A - 86%</td><td>03/11/23</td></tr></tbody></table>
 
 ## Progress
 
