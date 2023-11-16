@@ -10,6 +10,7 @@
     * [Chapter 1 - Matrices](further-maths/further-pure/chapter-1-matrices.md)
     * [Chapter 2 - Intro to complex numbers](further-maths/further-pure/chapter-2-intro-to-complex-numbers.md)
     * [Chapter 3 - Roots of polynomials](further-maths/further-pure/chapter-3-roots-of-polynomials.md)
+    * [Chapter 4 - Sequences and series](further-maths/further-pure/chapter-4-sequences-and-series.md)
   * [Further Statistics](further-maths/further-statistics/README.md)
     * [Chapter 1 - Statistical Problem Solving](further-maths/further-statistics/chapter-1-statistical-problem-solving.md)
     * [Chapter 2 - Discrete Random Variables](further-maths/further-statistics/chapter-2-discrete-random-variables.md)
