@@ -6,6 +6,10 @@ description: >-
 
 # Chapter 3 - Roots of polynomials
 
+{% hint style="info" %}
+Uses work on solving polynomial equations using the factor theorem.&#x20;
+{% endhint %}
+
 ## 3.1 - Quadratic equations
 
 If you know the roots are $$\alpha$$ and $$\beta$$, you can form the quadratic:

@@ -6,6 +6,10 @@ description: >-
 
 # Chapter 1 - Matrices
 
+{% hint style="info" %}
+Builds on GCSE work of transformations and introduces matrices.
+{% endhint %}
+
 ## Introduction
 
 A matrix is a rectangular array of numbers called elements.

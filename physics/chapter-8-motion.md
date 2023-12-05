@@ -17,11 +17,11 @@ In this case, the area under the curve = displacement over the whole journey, an
 
 To find the acceleration, at a point in time, draw a tangent, and find the gradient of the tangent, this is the acceleration.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Comparison of s/t, v/t, and a/t graphs.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Comparison of s/t, v/t, and a/t graphs.</p></figcaption></figure>
 
 ## 8.2 - Vectors
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * acceleration, $$a = \frac{\Delta v}{\Delta t}$$, is the rate of change of velocity, downwards acceleration on earth (gravity) is $$9.81ms^{-2}$$&#x20;
 
@@ -57,7 +57,7 @@ inclined at 15 degrees to the horizontal. Calculate the speed it is going when
 it reaches the 2.5m mark. You can ignore friction.
 ```
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Trolley on inclined plane.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Trolley on inclined plane.</p></figcaption></figure>
 
 ```
 1. Choose two directions at right angles to resolve. In this case it is easier to

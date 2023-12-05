@@ -4,9 +4,9 @@
 
 An orbital is an electron cloud where within the area 2, 6, 10, or 14 electrons may be found.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>The overview of electron shell structure.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption><p>The overview of electron shell structure.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>The order of electron shell filling, due to their energy.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption><p>The order of electron shell filling, due to their energy.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption><p>Periodic table with sub-shell orbitals.</p></figcaption></figure>
 
@@ -18,7 +18,7 @@ The image above shows the order the electron orbitals are filled due to their en
 
 The electron configuration can also be shown in spin diagrams as shown below.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="488"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="488"><figcaption></figcaption></figure>
 
 ## 5.2 - Ionic bonding
 
@@ -26,13 +26,13 @@ The electron configuration can also be shown in spin diagrams as shown below.
 
 The simplest way of showing this is with a dot and cross diagram, like this one,
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption><p>Example of ionic bonding - <span class="math">\text{Ca} + \text{Cl}_2 \rightarrow \text{CaCl}_2</span></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption><p>Example of ionic bonding - <span class="math">\text{Ca} + \text{Cl}_2 \rightarrow \text{CaCl}_2</span></p></figcaption></figure>
 
 Each ion in an ionic compound attracts oppositely charged ions in all directions.
 
 This results in a **giant ionic lattice** structure containing billions of billions of ions, that's why we use the empirical formula to display them, this is the lowest whole number ratio of each ion in the compound.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Ionic bonding 3D lattice example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Ionic bonding 3D lattice example</p></figcaption></figure>
 
 ### Properties of ionic compounds
 
@@ -40,7 +40,7 @@ Ionic compounds have very **high melting and boiling points** as a large amount 
 
 Ionic compounds **dissolve in polar substances**, such as water. Polar water molecules break down the lattice and surround each ion in solution. Water is polar as the oxygen molecule has two lone pairs of electrons on its far side.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Polar water diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Polar water diagram</p></figcaption></figure>
 
 In ionic compounds, the ionic attraction may not be able to break down the lattice structure, meaning it is not very soluble. However, if it has weaker ionic charges it with have a high solubility. For example, $$\text{NaCl}$$ has a solubility (at $$20\degree \text{C}$$) of $$\text{6.1 mol dm}^{-3}$$ whereas $$\text{CaCO}_3$$ is much less soluble at only $$\text{1.3} \times 10^{-4} \text{ mol dm}^{-3}$$.&#x20;
 

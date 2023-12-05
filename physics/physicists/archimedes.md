@@ -4,7 +4,7 @@ description: Syracuse, Sicily, 287-212BC
 
 # Archimedes
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p><em>Archimedes Thoughtful</em><br>by Domenico Fetti (1620)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption><p><em>Archimedes Thoughtful</em><br>by Domenico Fetti (1620)</p></figcaption></figure>
 
 ### Archimedes' Principle
 

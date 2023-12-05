@@ -7,6 +7,10 @@ description: >-
 
 # Chapter 2 - Intro to complex numbers
 
+{% hint style="info" %}
+Uses work on solving quadratic equations, which is used in [chapter-3-roots-of-polynomials.md](chapter-3-roots-of-polynomials.md "mention")
+{% endhint %}
+
 ## 2.1 Extending the number system
 
 [chapter-1-problem-solving.md](../../mathematics/chapter-1-problem-solving.md "mention")
