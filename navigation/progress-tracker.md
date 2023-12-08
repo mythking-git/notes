@@ -4,13 +4,14 @@
 {% tab title="Further Maths" %}
 ### Grades
 
-### Pure, A\* - 96%
+### Pure, A\* - 93%
 
 | Title                | Assignment | Test Mark | Grade      | Date     |
 | -------------------- | ---------- | --------- | ---------- | -------- |
 | Matricies            | 34/35      | 22/22     | A\* - 100% | 03/10/23 |
 | Complex numbers      | 40/40      | 21/23     | A\* - 91%  | 24/10/23 |
 | Roots of polynomials | 60/60      | 24/25     | A\* - 96%  | 13/11/23 |
+| Sequence and series  | 58/58      | 20/24     | A - 83%    | 05/12/23 |
 
 ### Stats, A\* - 95%:
 
@@ -42,7 +43,7 @@
 
 ### Stats, A\* - 100%:
 
-<table><thead><tr><th width="178">Title</th><th width="147">Assignment</th><th width="103">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Processing data</td><td></td><td>20/20</td><td>A* - 100%</td><td>27/10/23</td></tr></tbody></table>
+<table><thead><tr><th width="178">Title</th><th width="147">Assignment</th><th width="103">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Processing data</td><td>59/50</td><td>20/20</td><td>A* - 100%</td><td>27/10/23</td></tr><tr><td>Representing data</td><td>^</td><td>20/20</td><td>A* - 100%</td><td>17/11/23</td></tr></tbody></table>
 
 ### Pure:
 
@@ -54,9 +55,9 @@
 {% endtab %}
 
 {% tab title="Chemistry" %}
-## Grades, A - 88%:
+## Grades, A - 83%:
 
-<table><thead><tr><th width="222">Title</th><th width="101">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Amount of substance</td><td>16/21</td><td>B - 76% </td><td>09/10/23</td></tr><tr><td>Electrons and bonding</td><td>24/28</td><td>A - 86%</td><td>03/11/23</td></tr><tr><td>Acids and redox</td><td>21/21</td><td>A - 100%</td><td>13/11/23</td></tr></tbody></table>
+<table><thead><tr><th width="222">Title</th><th width="101">Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Amount of substance</td><td>16/21</td><td>B - 76% </td><td>09/10/23</td></tr><tr><td>Electrons and bonding</td><td>24/28</td><td>A - 86%</td><td>03/11/23</td></tr><tr><td>Acids and redox</td><td>21/21</td><td>A - 100%</td><td>13/11/23</td></tr><tr><td>Trust assessment</td><td>30/39</td><td>A/B - 77%</td><td>30/11/23</td></tr></tbody></table>
 
 ## Progress
 
