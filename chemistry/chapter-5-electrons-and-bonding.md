@@ -6,7 +6,7 @@ An orbital is an electron cloud where within the area 2, 6, 10, or 14 electrons 
 
 <figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption><p>The overview of electron shell structure.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption><p>The order of electron shell filling, due to their energy.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption><p>The order of electron shell filling, due to their energy.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption><p>Periodic table with sub-shell orbitals.</p></figcaption></figure>
 

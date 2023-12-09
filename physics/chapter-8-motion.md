@@ -21,7 +21,7 @@ To find the acceleration, at a point in time, draw a tangent, and find the gradi
 
 ## 8.2 - Vectors
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * acceleration, $$a = \frac{\Delta v}{\Delta t}$$, is the rate of change of velocity, downwards acceleration on earth (gravity) is $$9.81ms^{-2}$$&#x20;
 

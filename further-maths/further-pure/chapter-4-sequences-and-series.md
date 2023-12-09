@@ -48,7 +48,7 @@ For a sum of a series that can be split into a term by subtracting another term,
 
 $$\frac{1}{r} - \frac{1}{r+1} = \frac{1}{r(r+1)}$$ can be used to calculate a sum of series: $$\sum^{30}_{r=1} \frac{1}{r(r+1)}$$
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="444"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="444"><figcaption></figcaption></figure>
 
 We can see that most of the terms will cancel and we can simply take the first and last terms and solve only them.
 
