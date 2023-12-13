@@ -1,13 +1,17 @@
 # Practice Questions
 
-### Further Maths
+Further Maths
 
 {% embed url="https://alevelmathsrevision.com/further-maths-categorised-exam-questions/" %}
 
-### **Mathematics**
+## **Mathematics**
 
 {% embed url="https://alevelmathsrevision.com/further-maths-categorised-exam-questions/" %}
 
-### Chemistry
+## Chemistry
 
-{% embed url="https://www.a-levelchemistry.co.uk/" %}
+{% embed url="https://www.revisely.com/alevel/chemistry/ocr/questions" %}
+
+## Physics
+
+{% embed url="http://subjects.robertsmyth.tgacademy.org.uk/science/quizzes/Physics%20Past%20Papers/Main%20Index.htm" %}
