@@ -13,9 +13,9 @@
 | Roots of polynomials | 60/60      | 24/25     | A\* - 96%  | 13/11/23 |
 | Sequence and series  | 58/58      | 20/24     | A - 83%    | 05/12/23 |
 
-### Stats, A\* - 95%:
+### Stats, A\* - 96%:
 
-<table><thead><tr><th width="208">Title</th><th width="128">Assignment</th><th width="110">Test Mark</th><th width="112">Grade</th><th>Date</th></tr></thead><tbody><tr><td>Discrete random variables 1</td><td>-</td><td>22/24</td><td>A* - 92%</td><td>26/09/23</td></tr><tr><td>Discrete random variables 2</td><td>29/30</td><td>13/13</td><td>A* - 100%</td><td>23/10/23</td></tr></tbody></table>
+<table><thead><tr><th width="223">Title</th><th width="128">Assignment</th><th width="110">Test Mark</th><th width="112">Grade</th><th>Date</th></tr></thead><tbody><tr><td>Discrete random variables 1</td><td>-</td><td>22/24</td><td>A* - 92%</td><td>26/09/23</td></tr><tr><td>Discrete random variables 2</td><td>29/30</td><td>13/13</td><td>A* - 100%</td><td>23/10/23</td></tr><tr><td>Poisson and Binomial Distributions</td><td>47/47</td><td>19/19</td><td>A* - 100%</td><td>18/12/23</td></tr><tr><td>Uniform and Geometric Distribution</td><td>^</td><td></td><td></td><td></td></tr></tbody></table>
 
 ### Pure:
 
@@ -37,9 +37,9 @@
 {% tab title="Mathematics" %}
 ## Grades
 
-### Pure, A\* - 91%:
+### Pure, A\* - 90%:
 
-<table><thead><tr><th width="148">Title</th><th>Assignment</th><th>Test Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Introduction</td><td>-</td><td>74/77</td><td>A* - 96%</td><td>04/09/23</td></tr><tr><td>Proofs</td><td>-</td><td>20/22</td><td>A* - 91%</td><td>26/09/23</td></tr><tr><td>Indicies</td><td>50/50</td><td>17/20</td><td>A* - 85%</td><td>02/10/23</td></tr><tr><td>Quadratics</td><td>50/50</td><td>14/20</td><td>B - 70% <span data-gb-custom-inline data-tag="emoji" data-code="1f926">🤦</span></td><td>06/11/23</td></tr><tr><td>Inequalities</td><td>39/40</td><td>24/24</td><td>A* - 100%</td><td>15/11/23</td></tr></tbody></table>
+<table><thead><tr><th width="148">Title</th><th>Assignment</th><th>Test Mark</th><th>Grade</th><th>Date</th></tr></thead><tbody><tr><td>Introduction</td><td>-</td><td>74/77</td><td>A* - 96%</td><td>04/09/23</td></tr><tr><td>Proofs</td><td>-</td><td>20/22</td><td>A* - 91%</td><td>26/09/23</td></tr><tr><td>Indicies</td><td>50/50</td><td>17/20</td><td>A* - 85%</td><td>02/10/23</td></tr><tr><td>Quadratics</td><td>50/50</td><td>14/20</td><td>B - 70% <span data-gb-custom-inline data-tag="emoji" data-code="1f926">🤦</span></td><td>06/11/23</td></tr><tr><td>Inequalities</td><td>39/40</td><td>24/24</td><td>A* - 100%</td><td>15/11/23</td></tr><tr><td>Coordinate Geometry</td><td>60/60</td><td>18/22</td><td>A - 81%</td><td>12/12/23</td></tr></tbody></table>
 
 ### Stats, A\* - 100%:
 
